@@ -4,7 +4,7 @@
 
 ## Acknowledgements
 
-- Thanks to Mr Hitesh Choudhary and Mr Anuragh Tiwari for their amazing mentorship
+- Thanks to Mr Hitesh Choudhary and Mr Anurag Tiwari for their amazing mentorship
 
 ## Tech Stack:-
 
